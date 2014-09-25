@@ -1,0 +1,1 @@
+var drink = 'aaa';
